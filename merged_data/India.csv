@@ -1,0 +1,50 @@
+hotel_name,location,star_rating,review_rating,number_of_reviews,price,city,country,channel_hotel_id,channel_name
+Om Balaji,Ahmedabad,3.0,nan,nan,101936,Ahmedabad,India,5393629,booking
+1 Bedroom Suite in Kochi,Cochin,3.0,nan,nan,100440,Kochi,India,5571371,booking
+Elegant 1BR Home Stay Near Kochi Airport,Cochin,3.0,nan,nan,127076,Kochi,India,5564324,booking
+1BR Spacious Homestay in Vennala,"Ernakulam, Cochin",3.0,nan,nan,118543,Kochi,India,5179203,booking
+"Graceful 3BHK Home in Vasant Vihar Phase 1, Dehradun ISBT","Ernakulam, Cochin",3.0,nan,nan,317939,Kochi,India,5007220,booking
+Modish 1BHK Suite near Airport,Cochin,3.0,nan,nan,100440,Kochi,India,5601128,booking
+"Modern Studio Home in Edapally, Kochi",Kakkanad,3.0,7.5,59 reviews,65635,Kochi,India,3443373,booking
+Well-Equipped 1BR Homestay in Trivandrum,Trivandrum,3.0,nan,nan,497928,Thiruvananthapuram,India,5158610,booking
+"Cosy Stay in Sanjaynagar, RT Nagar",Trivandrum,3.0,nan,nan,48551,Thiruvananthapuram,India,4984131,booking
+Anies Garden,Trivandrum,nan,6.9,10 reviews,102486,Thiruvananthapuram,India,2085866,booking
+OYO 9557 near KIMS Hospital,Trivandrum,3.0,6.6,39 reviews,101259,Thiruvananthapuram,India,2804200,booking
+SP Plaza Service Apartment,Trivandrum,nan,7.8,116 reviews,47860,Thiruvananthapuram,India,2776897,booking
+Simplisitic 1BR Home in Kochi,Cochin,3.0,nan,nan,126936,Kochi,India,5564317,booking
+Elegant 1BR Stay near Trivandrum International Airport,Trivandrum,3.0,nan,nan,60610,Thiruvananthapuram,India,4726659,booking
+"Deluxe One Bedroom home, away from home in Pune",Pune,3.0,nan,nan,80632,Pune,India,5311387,booking
+"Elegant Home Studio in Porvorim, Goa",Pune,3.0,nan,nan,317939,Pune,India,5007222,booking
+Standard 1BR Stay on Fursungi Road,Phūrsungi,3.0,nan,nan,61145,Pune,India,5564406,booking
+OYO 22477 Hotel Blue Moon,"Saraspur, Ahmedabad",3.0,nan,nan,87387,Ahmedabad,India,3991409,booking
+OYO 9591 Hotel Neel Kamal,"SG Highway, Ahmedabad",3.0,nan,nan,200813,Ahmedabad,India,2804028,booking
+Capital O 11718 Hotel Shivarth,Sarkhej,3.0,8.5,3 reviews,46120,Ahmedabad,India,2013985,booking
+"Spacious Home Studio in Rajouri Garden, Delhi","West Delhi, New Delhi",3.0,nan,nan,388592,Delhi,India,5007231,booking
+Delightful 1BR Home,"Malviya Nagar, New Delhi",3.0,nan,nan,77390,Delhi,India,5453266,booking
+OYO 13730 hotel balram,Noida,3.0,nan,nan,115676,Delhi,India,3466524,booking
+Modern 1BR Home in Gurgaon,Gurgaon,3.0,nan,nan,59333,Delhi,India,5311051,booking
+"Standard 1BR Stay near Huda City Center, Gurgaon","Sushant Lok, Gurgaon",3.0,nan,nan,77218,Delhi,India,5311369,booking
+Serene 1BR Retreat Near Infopark,Kakkanad,3.0,nan,nan,127076,Kochi,India,5516964,booking
+"Lavish Stay in Chetalli, Madikeri","Golf Course Road, Gurgaon",3.0,nan,nan,260357,Delhi,India,5007216,booking
+"Scenic Home Studio on PriniMall Road, Manali","Ernakulam, Cochin",3.0,nan,nan,251172,Kochi,India,5007219,booking
+The Pacific Hotel,Vadodara,3.0,7.7,66 reviews,156443,Vadodara,India,2078497,booking
+Lavish 1BR Dwelling in Kolkatta,Salt Lake City,3.0,nan,nan,257016,Kolkata,India,5590243,booking
+SPOT ON 10470 Hollywood Joka,Bhāsa,3.0,1.5,3 reviews,37950,Kolkata,India,3881429,booking
+"Contemporary Home Stay in Khandagiri, Bhubaneswar","HITEC City, Hyderabad",3.0,nan,nan,251172,Hyderabad,India,5004292,booking
+SPOT ON 41375 Avani Palace,Bhopal,3.0,9.3,3 reviews,31301,Bhopal,India,5244715,booking
+"Spacious 1BR Stay in Kaloor, Kochi","Ernakulam, Cochin",3.0,7.2,13 reviews,90352,Kochi,India,4157709,booking
+OYO 5839 Hotel Mohit Regency,Bhopal,3.0,nan,nan,103133,Bhopal,India,4337180,booking
+Elegant 1BR Stay near Near Aster Medicity,"Ernakulam, Cochin",3.0,nan,nan,129904,Kochi,India,5539301,booking
+Traditional 1BR Home near Kochi Airport,Cochin,3.0,nan,nan,127076,Kochi,India,5539294,booking
+OYO 10826 Sona Guest House,Kolkata,3.0,4.6,6 reviews,386422,Kolkata,India,3326577,booking
+"Cozy 1BHK Home Near Kochi Airport, Kochi",Cochin,3.0,nan,nan,100440,Kochi,India,5539286,booking
+Classic 1BR Stay Near Kochi Airport,Cochin,3.0,nan,nan,100440,Kochi,India,5556894,booking
+1BR Hideout in Kochi,Cochin,3.0,nan,nan,214384,Kochi,India,5564334,booking
+Elegant 1BR Stay in Ramamurthy Nagar,Bangalore,3.0,nan,nan,58337,Bangalore,India,5563158,booking
+OYO Home 36292 Cozy Studio Banasawadi,Bangalore,3.0,nan,nan,317939,Bangalore,India,5173691,booking
+Hotel near Kristu Jayanti College,Bangalore,3.0,8.0,15 reviews,186510,Bangalore,India,2804054,booking
+Capital O 3740 Golden Sands,"Koramangala, Bangalore",3.0,7.2,43 reviews,56455,Bangalore,India,1999976,booking
+Stylish Stay Near Fort Madikeri,Bangalore,3.0,nan,nan,317939,Bangalore,India,5007215,booking
+OYO 13730 hotel balram,Noida,3.0,nan,nan,115676,Ghaziabad,India,3466524,booking
+1BR Pleasant Stay Near Kochi Airport,Cochin,3.0,nan,nan,87597,Kochi,India,5556895,booking
+Artistic 1BR Stay near Salt Lake,"Salt Lake, Kolkata",3.0,nan,nan,71115,Kolkata,India,5596498,booking

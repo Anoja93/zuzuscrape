@@ -1,0 +1,201 @@
+hotel_name,location,star_rating,review_rating,number_of_reviews,price,city,country,channel_hotel_id,channel_name
+OYO 993 88 Mario's,Bayan Lepas,2.0,7.8,152 reviews,125020,Penang,Malaysia,1906575,booking
+OYO 90011 MN Ferringhi Inn,"Batu Ferringhi Beach, Batu Ferringhi",2.0,7.1,291 reviews,78415,Penang,Malaysia,3021985,booking
+OYO 1093 Ali's Motel,Teluk Bahang,2.0,8.4,148 reviews,77845,Penang,Malaysia,5101309,booking
+OYO 89645 Ong's Court,George Town,2.0,5.6,147 reviews,50900,Penang,Malaysia,2541843,booking
+OYO 89673 Good Friend Hotel,George Town,2.0,6.0,91 reviews,63681,Penang,Malaysia,3620032,booking
+OYO 89837 Hotel Ocean 77,Kuala Lumpur,2.0,4.7,4 reviews,63072,Kuala Lumpur,Malaysia,497746,booking
+OYO 89912 Jma Ferringhi Beach Hotel,"Batu Ferringhi Beach, Batu Ferringhi",2.0,6.7,12 reviews,79218,Penang,Malaysia,6140188,booking
+OYO Home 89409 Lovely 3br Sri Sayang,Batu Ferringhi,nan,9.2,21 reviews,286371,Penang,Malaysia,5688688,booking
+OYO Home 89367 Stylish 3br Arte S,Gelugor,nan,5.1,4 reviews,467163,Penang,Malaysia,5617475,booking
+OYO Capital O 89353 Nostalgia Boutique Hotel & Restaurant,George Town,2.0,8.2,27 reviews,164380,Penang,Malaysia,4113922,booking
+OYO Home 89669 Astounding 3br Arte S,Jelutong,3.0,nan,nan,281634,Penang,Malaysia,5974465,booking
+OYO Home 89389 Amazing 3br Sri Sayang,Batu Ferringhi,nan,7.9,26 reviews,285748,Penang,Malaysia,5687875,booking
+OYO 432 My 7days Inn,Johor Bahru,2.0,6.8,47 reviews,81609,Johor Bahru,Malaysia,4099989,booking
+OYO Home 89545 Magnificent 3br Arte S,Jelutong,3.0,nan,nan,311638,Penang,Malaysia,5937967,booking
+OYO Home 89664 Impressive 3br Arte S,Jelutong,3.0,nan,nan,298549,Penang,Malaysia,5965223,booking
+OYO 510 Sri Indar Hotel,Bukit Mertajam,2.0,7.4,784 reviews,108172,Penang,Malaysia,712024,booking
+OYO 998 Queen City Hotel,George Town,2.0,7.3,247 reviews,133123,Penang,Malaysia,2907102,booking
+OYO 497 ESQ Ferringhi Hotel,Batu Ferringhi,2.0,7.6,762 reviews,84487,Penang,Malaysia,304137,booking
+OYO 708 S Hotel,Perai,2.0,7.5,430 reviews,98074,Penang,Malaysia,2178447,booking
+SPOT ON 89821 Batu Maung Sempoi Inn and Cafe,Bayan Lepas,2.0,5.7,21 reviews,61959,Penang,Malaysia,2588197,booking
+SPOT ON 89816 Warm Blanket,Johor Bahru,2.0,6.5,45 reviews,65275,Johor Bahru,Malaysia,447220,booking
+SPOT ON 89757 The Rooms Jb,Johor Bahru,2.0,nan,nan,57531,Johor Bahru,Malaysia,6242001,booking
+OYO 89985 JS HOTEL,Johor Bahru,2.0,7.7,219 reviews,70804,Johor Bahru,Malaysia,2342415,booking
+OYO Home 89814 Uncommon 3br Arte S,Jelutong,2.0,nan,nan,295097,Penang,Malaysia,6116858,booking
+OYO Home 89667 Amazing 2br Arte S,Jelutong,3.0,nan,nan,213326,Penang,Malaysia,5937969,booking
+OYO Home 89458 Amazing 2br D'summit Residence,Johor Bahru,nan,6.9,21 reviews,184681,Johor Bahru,Malaysia,5688028,booking
+OYO 89880 Vstay 2 Guesthouse,George Town,2.0,7.7,32 reviews,73018,Penang,Malaysia,1238548,booking
+OYO 89608 Ms Nyonya Hotel Malacca Raya,Melaka,2.0,6.2,37 reviews,71917,Malacca,Malaysia,5853433,booking
+OYO 415 Straits Settlement Inn,Melaka,2.0,6.4,94 reviews,57312,Malacca,Malaysia,4009733,booking
+OYO 743 Gold City Hotel,Melaka,2.0,7.8,128 reviews,82942,Malacca,Malaysia,1612034,booking
+OYO 89355 Big Big Hotel,Johor Bahru,2.0,7.6,57 reviews,66343,Johor Bahru,Malaysia,1425837,booking
+OYO 519 Domus Hotel,Johor Bahru,2.0,7.5,328 reviews,105243,Johor Bahru,Malaysia,4372057,booking
+OYO 517 Aladdin Hotel,Johor Bahru,3.0,8.3,313 reviews,111614,Johor Bahru,Malaysia,4216777,booking
+OYO 430 Oak Valley Boutique Hotel,Johor Bahru,2.0,7.6,333 reviews,72619,Johor Bahru,Malaysia,401194,booking
+OYO 795 Nahdhoh Langkawi Resort,Pantai Cenang,2.0,8.4,343 reviews,108432,Kedah,Malaysia,4027742,booking
+OYO 89348 RG Motel,Changlun,2.0,8.0,41 reviews,83031,Kedah,Malaysia,5577181,booking
+OYO 89719 Vasa Cottage 2,Pantai Cenang,2.0,6.0,32 reviews,54216,Kedah,Malaysia,6015640,booking
+OYO 552 Hotel KL Centre Point,Kuala Lumpur,2.0,7.0,175 reviews,70804,Kuala Lumpur,Malaysia,4290324,booking
+OYO 44058 Motel Sre Bayam,Kulim,2.0,5.4,10 reviews,89618,Kedah,Malaysia,6020100,booking
+OYO 44028 Alpha Motel,Pantai Cenang,2.0,8.0,241 reviews,87587,Kedah,Malaysia,1709252,booking
+OYO Capital O 89658 Bustani Hotel,Jitra,3.0,7.3,11 reviews,100332,Kedah,Malaysia,6170507,booking
+OYO 89890 MILA MOTEL 2,Pantai Cenang,2.0,7.1,114 reviews,55317,Kedah,Malaysia,548459,booking
+OYO 601 I Stay Hotel,Johor Bahru,2.0,7.8,242 reviews,81874,Johor Bahru,Malaysia,2051835,booking
+OYO 614 D'PINETREES HOTEL,Johor Bahru,2.0,7.2,111 reviews,67714,Johor Bahru,Malaysia,4447653,booking
+OYO 89702 Md Hotel Masai,Johor Bahru,2.0,5.7,6 reviews,88339,Johor Bahru,Malaysia,5985531,booking
+OYO 89652 P Line Hotel,Johor Bahru,2.0,6.5,33 reviews,77889,Johor Bahru,Malaysia,5877860,booking
+OYO 44058 Motel Sre Bayam,Kulim,2.0,5.4,10 reviews,89618,Penang,Malaysia,6020100,booking
+SPOT ON 89917 Eastern Inn,George Town,2.0,6.6,223 reviews,82695,Penang,Malaysia,4579447,booking
+SPOT ON 89964 Padua Inn,George Town,2.0,6.0,5 reviews,71917,Penang,Malaysia,5701232,booking
+OYO 43982 BJ Bayview Inn,Pantai Cenang,2.0,8.3,158 reviews,139369,Kedah,Malaysia,2274820,booking
+OYO 1228 R & R MOTEL,Johor Bahru,2.0,6.8,55 reviews,84088,Johor Bahru,Malaysia,5281946,booking
+OYO 89965 Stay Inn Ii,Kota Kinabalu,2.0,8.8,4 reviews,115074,Sabah,Malaysia,6222537,booking
+SPOT ON 89989 Wispering Hotel,Johor Bahru,2.0,nan,nan,55317,Johor Bahru,Malaysia,6252286,booking
+SPOT ON 89953 Marco Polos Kenyalang,Kuching,2.0,8.7,14 reviews,65275,Kuching,Malaysia,4792235,booking
+Mendu Inn,Kuching,2.0,6.1,52 reviews,58600,Kuching,Malaysia,5252745,booking
+SPOT ON 89630 Hilltop Room,Kuching,2.0,6.1,18 reviews,46428,Kuching,Malaysia,3822693,booking
+OYO 1148 Kenyalang Suite,Miri,2.0,7.5,113 reviews,66343,Sarawak,Malaysia,5393361,booking
+OYO 976 Dragon Inn,Miri,2.0,7.9,142 reviews,81874,Sarawak,Malaysia,5063706,booking
+OYO 89465 Golden Lounge,Kuching,2.0,7.2,6 reviews,60847,Sarawak,Malaysia,5703633,booking
+OYO 991 Mayfair Hotel,Kuching,2.0,7.5,122 reviews,74131,Sarawak,Malaysia,4892371,booking
+OYO 44054 Holiday Mansion Inn,Sibu,2.0,8.2,54 reviews,81874,Sarawak,Malaysia,5447393,booking
+OYO 89855 Salim Room,Sibu,2.0,8.3,21 reviews,51470,Sarawak,Malaysia,3230224,booking
+OYO 89457 682 Lodge,Bintulu,2.0,7.9,21 reviews,59970,Sarawak,Malaysia,5703820,booking
+OYO 1220 396 Home Sweet Home,Kuching,2.0,7.3,17 reviews,58754,Kuching,Malaysia,5281930,booking
+OYO 979 Hua Kuok Inn,Kuching,2.0,7.8,155 reviews,61959,Sarawak,Malaysia,4952802,booking
+OYO 44103 8 Hotel,Nilai,2.0,6.2,147 reviews,56430,Negeri Sembilan,Malaysia,1120128,booking
+SPOT ON 89623 Nawawi's Backpackers,Rembau,2.0,8.3,3 reviews,54963,Negeri Sembilan,Malaysia,5854093,booking
+OYO 210 Hotel Five 2,Kota Kinabalu,2.0,8.3,563 reviews,87404,Kota Kinabalu,Malaysia,1681181,booking
+OYO 89398 Doorbellz,Kota Kinabalu,2.0,6.9,90 reviews,88516,Kota Kinabalu,Malaysia,4756519,booking
+OYO 89932 Dd Homestay,Kota Kinabalu,2.0,8.7,9 reviews,60847,Kota Kinabalu,Malaysia,6212154,booking
+OYO 89944 Stay Inn,Kota Kinabalu,2.0,6.0,8 reviews,81874,Kota Kinabalu,Malaysia,6222533,booking
+OYO 89965 Stay Inn Ii,Kota Kinabalu,2.0,8.8,4 reviews,115074,Kota Kinabalu,Malaysia,6222537,booking
+SPOT ON 89625 Bilton Inn,Kota Kinabalu,2.0,5.6,58 reviews,66605,Kota Kinabalu,Malaysia,378357,booking
+OYO 216 La Viva Hotel,Kota Kinabalu,2.0,6.7,384 reviews,81874,Kota Kinabalu,Malaysia,2142692,booking
+OYO 89482 Hotel Casero Inn,Kota Kinabalu,2.0,6.5,18 reviews,68601,Kota Kinabalu,Malaysia,5703731,booking
+SPOT ON 89906 Kendong Village Resort,Rembau,2.0,nan,nan,74131,Negeri Sembilan,Malaysia,6160337,booking
+OYO 44017 L & C Premium Stay,Kuching,2.0,6.8,182 reviews,54304,Kuching,Malaysia,570499,booking
+OYO 89465 Golden Lounge,Kuching,2.0,7.2,6 reviews,60847,Kuching,Malaysia,5703633,booking
+SPOT ON 89904 Marco Polo's,Kuching,2.0,8.9,181 reviews,48675,Kuching,Malaysia,346072,booking
+OYO 89810 In@hotel Taman Gaya,Johor Bahru,2.0,6.5,7 reviews,77446,Johor Bahru,Malaysia,6020264,booking
+OYO 1125 IR Inn Hotel,Johor Bahru,2.0,6.3,44 reviews,78952,Johor Bahru,Malaysia,5179152,booking
+SPOT ON 89644 Retto Hotel,Skudai,2.0,4.3,31 reviews,40140,Johor Bahru,Malaysia,1630622,booking
+OYO V3 Hotel Nusajaya,Nusajaya,2.0,7.5,77 reviews,75636,Johor Bahru,Malaysia,1467177,booking
+OYO 588 The Fern Lodge,Skudai,2.0,7.6,353 reviews,77752,Johor Bahru,Malaysia,470274,booking
+OYO 89423 Zenz Hotel,Kulai,2.0,8.1,173 reviews,89618,Johor Bahru,Malaysia,2563877,booking
+SPOT ON 89893 Vintage Inn,Kampong Morten,2.0,8.1,414 reviews,43102,Malacca,Malaysia,1390611,booking
+SPOT ON 89625 Bilton Inn,Kota Kinabalu,2.0,5.6,58 reviews,66605,Sabah,Malaysia,378357,booking
+OYO 216 La Viva Hotel,Kota Kinabalu,2.0,6.7,384 reviews,81874,Sabah,Malaysia,2142692,booking
+OYO 89537 Fairy Garden Resort,Ranau,2.0,6.6,69 reviews,77626,Sabah,Malaysia,5707480,booking
+OYO 89944 Stay Inn,Kota Kinabalu,2.0,6.0,8 reviews,81874,Sabah,Malaysia,6222533,booking
+OYO 89932 Dd Homestay,Kota Kinabalu,2.0,8.7,9 reviews,60847,Sabah,Malaysia,6212154,booking
+SPOT ON 89967 Tabin Lodge Bed & Breakfast,Lahad Datu,2.0,7.1,48 reviews,59911,Sabah,Malaysia,1903575,booking
+OYO 89482 Hotel Casero Inn,Kota Kinabalu,2.0,6.5,18 reviews,68601,Sabah,Malaysia,5703731,booking
+OYO 44066 Unikarya Lodge,Kota Kinabalu,2.0,8.5,169 reviews,79660,Sabah,Malaysia,2943399,booking
+OYO 89398 Doorbellz,Kota Kinabalu,2.0,6.9,90 reviews,88516,Sabah,Malaysia,4756519,booking
+OYO 89603 Treeline Urban Inn,Kota Kinabalu,2.0,8.3,23 reviews,84796,Sabah,Malaysia,5632921,booking
+OYO 210 Hotel Five 2,Kota Kinabalu,2.0,8.3,563 reviews,87404,Sabah,Malaysia,1681181,booking
+OYO 43993 Madsuite,Kota Kinabalu,2.0,8.0,193 reviews,98430,Sabah,Malaysia,3235155,booking
+SPOT ON 89947 Mu Yu,Semporna,2.0,nan,nan,87851,Sabah,Malaysia,6212211,booking
+OYO 991 Mayfair Hotel,Kuching,2.0,7.5,122 reviews,74131,Kuching,Malaysia,4892371,booking
+OYO 971 Nova Kuching Hotel,Kuching,2.0,7.7,283 reviews,82987,Kuching,Malaysia,1324060,booking
+OYO 979 Hua Kuok Inn,Kuching,2.0,7.8,155 reviews,61959,Kuching,Malaysia,4952802,booking
+OYO 89772 Roselyn Inn,Johor Bahru,2.0,nan,nan,75232,Johor Bahru,Malaysia,6123937,booking
+OYO 89846 Lotus Inn Hotel,Bukit Baru,2.0,nan,nan,78548,Malacca,Malaysia,6166815,booking
+OYO 43965 Jasa Resort,Sungai Lembing,2.0,8.9,72 reviews,97147,Pahang,Malaysia,5393342,booking
+OYO 89557 Welcome Inn,Bintulu,2.0,7.2,11 reviews,50811,Sarawak,Malaysia,5825075,booking
+OYO Home 44046 Cozy 1br Casa Mutiara,"Bukit Bintang, Kuala Lumpur",nan,4.1,8 reviews,110541,Kuala Lumpur,Malaysia,5517292,booking
+OYO Home 89447 Wonderful 1br Megan Ambassy,"Kuala Lumpur City-Centre, Kuala Lumpur",nan,3.3,3 reviews,97656,Kuala Lumpur,Malaysia,5747894,booking
+OYO 805 Hotel Run Star,"Chow Kit, Kuala Lumpur",2.0,7.3,80 reviews,72572,Kuala Lumpur,Malaysia,4936993,booking
+OYO 1227 AA Inn,Bintulu,2.0,6.9,4 reviews,50811,Sarawak,Malaysia,5530525,booking
+OYO 89604 City Home Stay,Miri,2.0,7.9,187 reviews,71872,Sarawak,Malaysia,2008540,booking
+OYO 327 Buddys Hotel,"Chow Kit, Kuala Lumpur",2.0,7.9,612 reviews,101704,Kuala Lumpur,Malaysia,2131130,booking
+SPOT ON 89953 Marco Polos Kenyalang,Kuching,2.0,8.7,14 reviews,65275,Sarawak,Malaysia,4792235,booking
+OYO 89618 Delegant Hotel,"Bukit Bintang, Kuala Lumpur",2.0,6.9,18 reviews,77624,Kuala Lumpur,Malaysia,5942812,booking
+OYO Capital O 978 Midaris Hotel,"Pudu, Kuala Lumpur",3.0,7.4,541 reviews,108476,Kuala Lumpur,Malaysia,4058735,booking
+SPOT ON 89926 City Hostel Ipoh,Ipoh,2.0,7.9,4 reviews,70804,Ipoh,Malaysia,5878009,booking
+OYO 193 City Kuchai Hotel,"Mid Valley, Kuala Lumpur",2.0,7.1,115 reviews,75684,Kuala Lumpur,Malaysia,1898163,booking
+OYO 89641 Myhouse Inn,Bintulu,2.0,nan,nan,55012,Sarawak,Malaysia,6304637,booking
+SPOT ON 89706 To-day Hotel,Sibu,2.0,7.5,7 reviews,48675,Sarawak,Malaysia,5965214,booking
+OYO Home 44081 Irresistible Studio 3 Towers,"Ampang, Kuala Lumpur",nan,nan,nan,137181,Kuala Lumpur,Malaysia,5537840,booking
+OYO 89840 69 Room 4 Stay,Sibu,2.0,nan,nan,60847,Sarawak,Malaysia,6139901,booking
+OYO 1220 396 Home Sweet Home,Kuching,2.0,7.3,17 reviews,58754,Sarawak,Malaysia,5281930,booking
+OYO 89544 Utama Inn,Bintulu,2.0,7.7,13 reviews,60847,Sarawak,Malaysia,5792601,booking
+OYO 89663 Theatre Inn,Kampong Lamanak,3.0,8.6,10 reviews,74131,Sarawak,Malaysia,5911730,booking
+OYO 89642 Highway Inn,Mukah,2.0,nan,nan,60847,Sarawak,Malaysia,6124672,booking
+OYO 89627 Hotel Sarina,Mukah,2.0,5.5,10 reviews,56430,Sarawak,Malaysia,5985526,booking
+SPOT ON 89805 The Traveler Home,Sibu,2.0,7.2,4 reviews,38729,Sarawak,Malaysia,6048794,booking
+SPOT ON 89630 Hilltop Room,Kuching,2.0,6.1,18 reviews,46428,Sarawak,Malaysia,3822693,booking
+OYO 89490 Hill Times Inn Hotel,Ipoh,2.0,7.1,82 reviews,67489,Ipoh,Malaysia,901554,booking
+OYO 44019 Nas Hotel,Ipoh,2.0,8.0,80 reviews,108566,Ipoh,Malaysia,4244167,booking
+OYO 89571 Eco Palace hotel,"Chow Kit, Kuala Lumpur",2.0,5.6,5 reviews,49273,Kuala Lumpur,Malaysia,4341602,booking
+OYO Home 1205 Classy 1br Megan Embassy,"Kuala Lumpur City-Centre, Kuala Lumpur",nan,7.5,4 reviews,101478,Kuala Lumpur,Malaysia,5427573,booking
+SPOT ON 89774 SIM Hotel,"Bukit Bintang, Kuala Lumpur",2.0,8.3,301 reviews,81863,Kuala Lumpur,Malaysia,1703034,booking
+ZEN Rooms Basic Bukit Bintang,"Bukit Bintang, Kuala Lumpur",1.0,7.3,60 reviews,48664,Kuala Lumpur,Malaysia,2410842,booking
+OYO Home 44018 Elegant Studio Vivo 9 Seputeh,Kuala Lumpur,nan,5.4,3 reviews,132109,Kuala Lumpur,Malaysia,5537512,booking
+OYO Home 89416 Stylish 1br Summer Suites,"Kuala Lumpur City-Centre, Kuala Lumpur",nan,nan,nan,161986,Kuala Lumpur,Malaysia,5632966,booking
+OYO 44066 Unikarya Lodge,Kota Kinabalu,2.0,8.5,169 reviews,79660,Kota Kinabalu,Malaysia,2943399,booking
+OYO 43993 Madsuite,Kota Kinabalu,2.0,8.0,193 reviews,98430,Kota Kinabalu,Malaysia,3235155,booking
+OYO 89603 Treeline Urban Inn,Kota Kinabalu,2.0,8.3,23 reviews,84796,Kota Kinabalu,Malaysia,5632921,booking
+OYO 746 Hotel Comfort,Ipoh,2.0,7.4,250 reviews,80764,Ipoh,Malaysia,4673379,booking
+OYO Home 89467 Comfortable 2br Holiday Place,"Kuala Lumpur City-Centre, Kuala Lumpur",nan,nan,nan,186012,Kuala Lumpur,Malaysia,5670967,booking
+OYO 252 Lotus Hotel,Seremban,2.0,7.6,701 reviews,97052,Negeri Sembilan,Malaysia,549555,booking
+OYO 542 S2 Hotel,Seremban,2.0,7.7,557 reviews,98912,Negeri Sembilan,Malaysia,455069,booking
+OYO 89676 Hotel 22,Seremban,2.0,4.1,14 reviews,86784,Negeri Sembilan,Malaysia,5908007,booking
+SPOT ON 89707 RIVER VIEW GUEST HOUSE,Tranquerah,2.0,8.4,200 reviews,50900,Malacca,Malaysia,2780881,booking
+OYO 89656 Melati Hotel Nilai,Nilai,2.0,3.7,11 reviews,55141,Negeri Sembilan,Malaysia,5877706,booking
+OYO 1043 Get Inn Hotel Sendayan,Nilai,2.0,7.2,103 reviews,88250,Negeri Sembilan,Malaysia,4952663,booking
+OYO Home 89526 Unbelievable Studio Megan Ambassy,"Kuala Lumpur City-Centre, Kuala Lumpur",nan,8.5,4 reviews,134973,Kuala Lumpur,Malaysia,5716199,booking
+OYO 804 Hotel Pinji,Ipoh,2.0,7.6,590 reviews,87847,Ipoh,Malaysia,1896550,booking
+OYO 1163 Hotel Pulai,Ipoh,2.0,7.6,113 reviews,97810,Ipoh,Malaysia,5281958,booking
+OYO Home 89323 Terrific Studio Silka Maytower,"Golden Triangle, Kuala Lumpur",nan,4.5,3 reviews,104182,Kuala Lumpur,Malaysia,5589007,booking
+Mendu Inn,Kuching,2.0,6.1,52 reviews,58600,Sarawak,Malaysia,5252745,booking
+SPOT ON 89962 Perfect Class Hotel,"Golden Triangle, Kuala Lumpur",2.0,3.7,3 reviews,49074,Kuala Lumpur,Malaysia,6271077,booking
+OYO 89775 98inn,Miri,2.0,8.6,6 reviews,97362,Sarawak,Malaysia,6005618,booking
+OYO 709 TGL Hotel,Kampong Telok Baharu,2.0,7.9,166 reviews,90504,Pahang,Malaysia,2189208,booking
+OYO 1165 Kris Lodge,Bintulu,2.0,8.0,273 reviews,50900,Sarawak,Malaysia,1930830,booking
+OYO 603 Sri Padang Inn,Kampung Padang,2.0,7.3,76 reviews,92585,Pahang,Malaysia,4431947,booking
+OYO 89866 Houz Inn,Bintulu,2.0,7.5,7 reviews,57487,Sarawak,Malaysia,303069,booking
+OYO 90015 Indah Chalet,Kuala Rompin,2.0,nan,nan,78548,Pahang,Malaysia,6292782,booking
+OYO 889 Hotel Cherita Rooms,Kuantan,2.0,6.8,77 reviews,58547,Pahang,Malaysia,4816813,booking
+OYO 1153 Heaven Hill Hotel 1,Cameron Highlands,2.0,6.3,76 reviews,95328,Pahang,Malaysia,5179056,booking
+OYO Capital O 89695 Planters Hotel,Cameron Highlands,3.0,6.5,324 reviews,81701,Pahang,Malaysia,295992,booking
+SPOT ON 89870 Rasa Sayang Hotel,Cameron Highlands,2.0,6.5,102 reviews,54615,Pahang,Malaysia,2855584,booking
+OYO 44096 101 Resort & Spa,Kampung Janda Baik,2.0,7.6,239 reviews,194734,Pahang,Malaysia,2205860,booking
+SPOT ON 89860 YB House,Kuantan,2.0,7.0,141 reviews,48675,Pahang,Malaysia,1141884,booking
+OYO 984 Kings Hotel,Kuantan,2.0,7.2,140 reviews,77490,Pahang,Malaysia,401164,booking
+OYO 1104 Q hotel,Temerloh,2.0,7.0,150 reviews,63460,Pahang,Malaysia,5281873,booking
+OYO 43935 Mancalin Hotel,Kuantan,2.0,8.0,78 reviews,92411,Pahang,Malaysia,5316563,booking
+OYO 443 Crystal City Hotel,Kuantan,2.0,7.8,251 reviews,76343,Pahang,Malaysia,1078685,booking
+OYO 720 Corridor Hotel 2,Pekan,2.0,7.1,118 reviews,89972,Pahang,Malaysia,4569904,booking
+OYO 499 Comfort Hotel Sentul,Kuala Lumpur,2.0,6.9,95 reviews,45672,Kuala Lumpur,Malaysia,2924716,booking
+OYO 761 City Hotel,Kuala Lumpur,2.0,6.8,354 reviews,64537,Kuala Lumpur,Malaysia,175851,booking
+OYO 89562 Hotel Shalimar,"Chow Kit, Kuala Lumpur",2.0,3.6,6 reviews,57310,Kuala Lumpur,Malaysia,5743913,booking
+OYO 561 MS Bukit Bintang Hotel,"Bukit Bintang, Kuala Lumpur",2.0,6.2,173 reviews,48261,Kuala Lumpur,Malaysia,4366975,booking
+OYO 157 Norbu Hotel,"Pudu, Kuala Lumpur",2.0,5.7,138 reviews,68601,Kuala Lumpur,Malaysia,1812884,booking
+OYO 89494 Max Star Hotel,"Kuala Lumpur City-Centre, Kuala Lumpur",2.0,6.9,145 reviews,82854,Kuala Lumpur,Malaysia,298442,booking
+OYO 321 Hotel D'Elegant,"Bukit Bintang, Kuala Lumpur",2.0,6.8,288 reviews,57807,Kuala Lumpur,Malaysia,3166030,booking
+OYO 44043 First Garden Hotel,Kuantan,2.0,6.6,22 reviews,86917,Pahang,Malaysia,5537444,booking
+OYO 44015 MK Inn Hotel,"Golden Triangle, Kuala Lumpur",2.0,7.7,208 reviews,90903,Kuala Lumpur,Malaysia,5393597,booking
+OYO 546 Grand City Hotel,Kuantan,2.0,6.8,559 reviews,83911,Pahang,Malaysia,401141,booking
+OYO 478 The Green Hotel,"Ampang, Kuala Lumpur",2.0,7.0,163 reviews,60847,Kuala Lumpur,Malaysia,4205390,booking
+OYO 304 Zero Hour Hotel,"Bukit Bintang, Kuala Lumpur",2.0,7.2,210 reviews,57664,Kuala Lumpur,Malaysia,2311981,booking
+OYO 545 Hotel Sahara Inn,Kuala Lumpur,2.0,6.3,278 reviews,97362,Kuala Lumpur,Malaysia,4308888,booking
+OYO 89655 Sri Duta Hotel,Kuala Lumpur,2.0,7.1,56 reviews,56430,Kuala Lumpur,Malaysia,5433792,booking
+OYO 410 Brickfields Park Hotel,"Brickfields, Kuala Lumpur",2.0,7.0,264 reviews,52511,Kuala Lumpur,Malaysia,3916485,booking
+OYO Home 89561 Wonderful 2br Megan Ambassy,"Kuala Lumpur City-Centre, Kuala Lumpur",3.0,nan,nan,151827,Kuala Lumpur,Malaysia,5853323,booking
+OYO Home 89311 Marvelous 1br Starview Bay,Johor Bahru,3.0,8.0,5 reviews,109047,Johor Bahru,Malaysia,6026329,booking
+OYO 494 EG Hotel,Johor Bahru,2.0,6.9,208 reviews,94046,Johor Bahru,Malaysia,4160149,booking
+OYO 43929 ADAK Hotel,"Chow Kit, Kuala Lumpur",2.0,7.1,145 reviews,66735,Kuala Lumpur,Malaysia,4283785,booking
+OYO 428 Hope Hotel,Johor Bahru,2.0,8.0,104 reviews,87853,Johor Bahru,Malaysia,3173045,booking
+OYO 89631 988 Hotel,Johor Bahru,2.0,8.9,7 reviews,77446,Johor Bahru,Malaysia,5986546,booking
+OYO 985 Hotel Nur,Miri,3.0,8.5,498 reviews,87404,Sarawak,Malaysia,498093,booking
+SPOT ON 89904 Marco Polo's,Kuching,2.0,8.9,181 reviews,48675,Sarawak,Malaysia,346072,booking
+OYO 1196 Dynamic Hotel,Kuala Lumpur,2.0,8.1,52 reviews,70540,Kuala Lumpur,Malaysia,4300676,booking
+OYO 44017 L & C Premium Stay,Kuching,2.0,6.8,182 reviews,54304,Sarawak,Malaysia,570499,booking
+OYO 971 Nova Kuching Hotel,Kuching,2.0,7.7,283 reviews,82987,Sarawak,Malaysia,1324060,booking
+OYO Home 44049 Homey Studio Megan Ambassy,"Kuala Lumpur City-Centre, Kuala Lumpur",nan,6.1,9 reviews,91258,Kuala Lumpur,Malaysia,5493458,booking
+OYO 188 YP Wangsa,Kuala Lumpur,2.0,6.8,145 reviews,75232,Kuala Lumpur,Malaysia,4947441,booking
+OYO 280 Hotel Dragon Inn,"Ampang, Kuala Lumpur",2.0,6.5,273 reviews,78111,Kuala Lumpur,Malaysia,1993558,booking
+OYO 902 Rooms Boutique Hotel,Johor Bahru,2.0,7.7,57 reviews,84044,Johor Bahru,Malaysia,357949,booking

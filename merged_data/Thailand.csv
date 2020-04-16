@@ -1,0 +1,370 @@
+hotel_name,location,star_rating,review_rating,number_of_reviews,price,city,country,channel_hotel_id,channel_name
+OYO 690 Bann Supansa Resort,Krabi town,3.0,nan,nan,132744,Krabi,Thailand,6150045,booking
+OYO 808 Kawin Home,"Lat Krabang, Bangkok",2.0,nan,nan,75864,Bangkok,Thailand,6294930,booking
+OYO 455 Siam Best 2,"Pratunam, Bangkok",4.0,8.3,4 reviews,82841,Bangkok,Thailand,6232401,booking
+OYO 484 Pannee Residence Khaosan,"Khaosan, Bangkok",2.0,7.7,105 reviews,105190,Bangkok,Thailand,1415706,booking
+OYO 482 Pannee Lodge Khaosan,"Khaosan, Bangkok",2.0,7.6,154 reviews,102146,Bangkok,Thailand,1415629,booking
+OYO 387 Little Bangbon,Bangkok,3.0,6.0,5 reviews,78200,Bangkok,Thailand,4950044,booking
+OYO 642 Nice Bird Suite,"Laksi, Bangkok",3.0,nan,nan,87015,Bangkok,Thailand,545855,booking
+OYO 378 Bright Minitel,"Bangkok Old Town, Bangkok",2.0,8.7,102 reviews,87600,Bangkok,Thailand,2856249,booking
+OYO 559 Vestel,"Phaya Thai, Bangkok",3.0,8.7,105 reviews,100390,Bangkok,Thailand,2503669,booking
+OYO 845 L.A Tower Hotel,"Din Daeng, Bangkok",2.0,7.5,48 reviews,93893,Bangkok,Thailand,779574,booking
+OYO 796 Paradise Sukhumvit Hotel,"Wattana, Bangkok",2.0,nan,nan,66976,Bangkok,Thailand,263291,booking
+OYO 333 NK Guesthouse,"Khlong Toei, Bangkok",2.0,7.3,110 reviews,84697,Bangkok,Thailand,377845,booking
+OYO 432 Longzhu Guesthouse,"Bang Kho Laem, Bangkok",2.0,6.6,66 reviews,130039,Bangkok,Thailand,1148571,booking
+OYO 411 Grandview Condo 15,"Chatuchak, Bangkok",2.0,6.4,10 reviews,231162,Bangkok,Thailand,5761183,booking
+OYO 814 Nature Hostel,"Laksi, Bangkok",2.0,nan,nan,115465,Bangkok,Thailand,6283883,booking
+OYO 322 Shady 32,"Chatuchak, Bangkok",2.0,8.3,42 reviews,95667,Bangkok,Thailand,5610165,booking
+OYO 644 Pong Pai House,"Lat Krabang, Bangkok",2.0,nan,nan,73172,Bangkok,Thailand,6144204,booking
+OYO 783 Brunch Marker Cafe & Hostels,"Khaosan, Bangkok",2.0,8.3,93 reviews,67756,Bangkok,Thailand,1896560,booking
+OYO 271 The Resort Romklao,"Lat Krabang, Bangkok",3.0,6.1,52 reviews,54732,Bangkok,Thailand,1394085,booking
+OYO 114 Bb Boutique Ekamai,"Wattana, Bangkok",2.0,6.7,20 reviews,104342,Bangkok,Thailand,4806790,booking
+OYO 117 King One Suvarnabhumi,Bangkok,3.0,7.4,361 reviews,65708,Bangkok,Thailand,275341,booking
+OYO 505 Ente Space Hostel,"Chinatown, Bangkok",2.0,7.3,8 reviews,74470,Bangkok,Thailand,5852998,booking
+OYO 427 Chill Apartment,"Bang Khae, Bangkok",3.0,7.8,154 reviews,50572,Bangkok,Thailand,2962078,booking
+ZEN Rooms Siripong Road,"Bangkok Old Town, Bangkok",2.0,8.0,7 reviews,132712,Bangkok,Thailand,2098435,booking
+OYO 424 The Room Resort Apartment,"Saphan Sung, Bangkok",2.0,nan,nan,116248,Bangkok,Thailand,5745132,booking
+OYO 434 Boonsiri Place Hotel,"Bangkok Old Town, Bangkok",3.0,7.4,186 reviews,146376,Bangkok,Thailand,27243,booking
+OYO 404 P9 Bangkok,Bangkok,2.0,8.8,14 reviews,73172,Bangkok,Thailand,5716281,booking
+OYO 568 Art Hotel Hua Lamphong,"Pathumwan, Bangkok",3.0,7.3,486 reviews,74435,Bangkok,Thailand,3456511,booking
+OYO 274 Meesook Residence,Bangkok,3.0,7.9,215 reviews,65502,Bangkok,Thailand,5512110,booking
+OYO 137 Kitzio House,"Huai Khwang, Bangkok",2.0,8.7,127 reviews,111115,Bangkok,Thailand,4469652,booking
+OYO 462 Star Sukhumvit,"Sukhumvit, Bangkok",3.0,8.1,72 reviews,110986,Bangkok,Thailand,5835092,booking
+OYO 309 Ze Residence Ram Intra,Bangkok,3.0,8.4,22 reviews,60632,Bangkok,Thailand,5561706,booking
+OYO 388 SLT Apartment,Bangkok,nan,8.0,50 reviews,101855,Bangkok,Thailand,4013390,booking
+OYO 307 Baan Udom,"Chinatown, Bangkok",2.0,8.1,97 reviews,131913,Bangkok,Thailand,1615013,booking
+OYO 243 The All Residence,Bangkok,3.0,8.2,103 reviews,94707,Bangkok,Thailand,5373333,booking
+OYO 457 Panasan Villa,"Sukhumvit, Bangkok",1.0,8.2,5 reviews,61229,Bangkok,Thailand,5713200,booking
+OYO 236 A Sleep Bangkok Sathorn,"Sathorn, Bangkok",3.0,8.5,249 reviews,83158,Bangkok,Thailand,5300762,booking
+OYO 881 SP Tha Phra,"Bangkok Yai, Bangkok",2.0,nan,nan,64490,Bangkok,Thailand,4777073,booking
+OYO 564 Nature Boutique Hotel,"Chatuchak, Bangkok",3.0,7.9,336 reviews,87658,Bangkok,Thailand,274494,booking
+OYO 415 P Place,"Bangkapi, Bangkok",3.0,7.6,60 reviews,65439,Bangkok,Thailand,4725043,booking
+OYO 308 Wire Bangkok Hostel Onnut,"Sukhumvit, Bangkok",2.0,6.2,29 reviews,62986,Bangkok,Thailand,5253045,booking
+Capital O OYO 737 Beyond Suite Rama8,"Khaosan, Bangkok",4.0,nan,nan,119855,Bangkok,Thailand,4129349,booking
+OYO 299 Crown Bts Nana Hotel,"Khlong Toei, Bangkok",2.0,7.2,235 reviews,102205,Bangkok,Thailand,1016774,booking
+OYO 431 Plearnwan Deluxe Mansion,Bangkok,3.0,7.1,7 reviews,79054,Bangkok,Thailand,4994806,booking
+OYO 410 Diamond Boutique Hostel,"Bang Khae, Bangkok",3.0,4.5,4 reviews,67616,Bangkok,Thailand,5733287,booking
+OYO 491 Five Diamond,"Bang Khen, Bangkok",3.0,8.7,166 reviews,62242,Bangkok,Thailand,4779309,booking
+OYO 602 L'hotel Bangkok,Bangkok,3.0,6.2,13 reviews,94930,Bangkok,Thailand,2299127,booking
+OYO 507 Freesia Guesthouse Suvarnabhumi,Bangkok,nan,5.7,3 reviews,70414,Bangkok,Thailand,5911931,booking
+OYO 426 All Day Hostel @ Sukhumvit,"Sukhumvit, Bangkok",nan,9.0,103 reviews,89070,Bangkok,Thailand,3059897,booking
+OYO 425 Gedkanok Apartment,Bangkok,2.0,5.9,23 reviews,59825,Bangkok,Thailand,1707265,booking
+OYO 615 Bossa House Hostel & Cafe,"Sukhumvit, Bangkok",2.0,9.2,4 reviews,39220,Bangkok,Thailand,5262182,booking
+OYO 254 Royal Pimand,Bangkok,3.0,5.5,62 reviews,64391,Bangkok,Thailand,361164,booking
+OYO 478 The Diamond 24 Minburi,Bangkok,3.0,7.7,15 reviews,135367,Bangkok,Thailand,4969312,booking
+ZEN Rooms Aryan Suites,"Din Daeng, Bangkok",2.0,7.7,19 reviews,120386,Bangkok,Thailand,1711928,booking
+ZEN Rooms Sukhumvit 81,"Sukhumvit, Bangkok",nan,8.1,38 reviews,161457,Bangkok,Thailand,1725755,booking
+ZEN Rooms Sathorn,"Sathorn, Bangkok",nan,nan,nan,139923,Bangkok,Thailand,1713492,booking
+ZEN Rooms Sukhumvit 71,"Wattana, Bangkok",3.0,nan,nan,161732,Bangkok,Thailand,1725766,booking
+OYO 371 Sea Breeze Residence,Jomtien Beach,3.0,8.3,118 reviews,129770,Pattaya,Thailand,1063330,booking
+OYO 281 The Reader Cafe And Room,Pattaya South,2.0,7.2,37 reviews,66193,Pattaya,Thailand,2666965,booking
+OYO 144 Piyada Residence Pattaya,Pattaya South,3.0,8.2,251 reviews,74471,Pattaya,Thailand,266685,booking
+OYO 438 Home 24,"North Pattaya, Pattaya Central",2.0,7.9,4 reviews,64437,Pattaya,Thailand,5760521,booking
+OYO Loft By Busaba,Jomtien Beach,3.0,nan,nan,98138,Pattaya,Thailand,5959360,booking
+OYO 278 Fortune Pattaya Resort,Jomtien Beach,3.0,7.9,23 reviews,87658,Pattaya,Thailand,4792735,booking
+OYO 356 PU Guesthouse,Phra Nakhon Si Ayutthaya,3.0,7.6,237 reviews,72082,Ayutthaya,Thailand,1548288,booking
+OYO 465 Krung Kao Traveller Lodge,Phra Nakhon Si Ayutthaya,2.0,8.1,215 reviews,48457,Ayutthaya,Thailand,4037412,booking
+OYO 384 Ban Sabaidee,Phra Nakhon Si Ayutthaya,3.0,6.1,42 reviews,72878,Ayutthaya,Thailand,289453,booking
+OYO 290 DD Residence Hotel,Rayong,2.0,8.1,193 reviews,60983,Rayong,Thailand,1570610,booking
+OYO Wan Resort,Rayong,3.0,8.9,4 reviews,78539,Rayong,Thailand,5616950,booking
+OYO 245 Sweet Sense Jomtien Resort,Jomtien Beach,3.0,7.5,119 reviews,65708,Pattaya,Thailand,428465,booking
+OYO Waaina resort,Rayong,2.0,nan,nan,75864,Rayong,Thailand,5933398,booking
+OYO 827 Preechana Golden Place Service Apartment,Rayong,2.0,nan,nan,63689,Rayong,Thailand,6294952,booking
+OYO 418 Saksaitarn Resort,Rayong,4.0,7.5,9 reviews,90463,Rayong,Thailand,5737565,booking
+OYO 442 Suan Palm Garden View,Rayong,3.0,7.6,25 reviews,58244,Rayong,Thailand,636280,booking
+OYO 839 Next At Rayong Hotel,Rayong,2.0,7.9,16 reviews,58244,Rayong,Thailand,1178892,booking
+OYO 595 Mac Garden Resort,Ban Phe,3.0,6.0,7 reviews,62658,Rayong,Thailand,288441,booking
+OYO 752 Green Resort,Ban Hua Laem,2.0,nan,nan,58572,Rayong,Thailand,6270714,booking
+OYO 678 9's Born,Ban Kluk Faeb,2.0,nan,nan,58244,Rayong,Thailand,6144266,booking
+OYO 407 Tom Pizza Resort,"Ao Wong Duan, Ko Samed",2.0,6.1,6 reviews,121611,Rayong,Thailand,4303486,booking
+OYO 516 Rabeang Baan,Ko Samed,2.0,nan,nan,121611,Rayong,Thailand,5975080,booking
+OYO 864 Seahorse Resort,"Ao Wong Duan, Ko Samed",2.0,nan,nan,123870,Rayong,Thailand,6363717,booking
+OYO 324 Deeden Pattaya Resort,Pattaya South,3.0,7.5,98 reviews,65708,Pattaya,Thailand,482105,booking
+OYO 764 Let’s Go Hotel,Rayong,2.0,5.1,3 reviews,61229,Rayong,Thailand,3584383,booking
+OYO 645 Baan Ruangrungroj,Jomtien Beach,2.0,nan,nan,53269,Pattaya,Thailand,6144236,booking
+OYO 347 Southside Residence,Pattaya South,2.0,8.3,56 reviews,52830,Pattaya,Thailand,5646387,booking
+OYO 458 Nakorn Siam Boutique,Pattaya Central,3.0,7.3,44 reviews,65708,Pattaya,Thailand,5839982,booking
+OYO Ali Hostel,"Phaya Thai, Bangkok",2.0,nan,nan,93119,Bangkok,Thailand,5928872,booking
+OYO Am Bed Hostel,"Phaya Thai, Bangkok",nan,9.5,96 reviews,83233,Bangkok,Thailand,4525840,booking
+OYO Chatel Hostel Bangkok,"Pathumwan, Bangkok",3.0,8.8,12 reviews,87805,Bangkok,Thailand,5386613,booking
+OYO 612 Hansa Hostel,"Khaosan, Bangkok",nan,8.8,18 reviews,88191,Bangkok,Thailand,3189663,booking
+OYO S7 Hostel,"Wattana, Bangkok",3.0,8.2,251 reviews,64144,Bangkok,Thailand,2650384,booking
+OYO 823 Oliver’s Hostel,"Sukhumvit, Bangkok",nan,7.2,5 reviews,95648,Bangkok,Thailand,4735090,booking
+OYO 287 Al Ameen Hotel,Krabi town,4.0,7.8,143 reviews,65251,Krabi,Thailand,4975819,booking
+OYO 815 Namchai House,Jomtien Beach,2.0,nan,nan,73260,Pattaya,Thailand,6294915,booking
+OYO 819 Baan Garagade Resort,Na Jomtien,2.0,nan,nan,110489,Pattaya,Thailand,6296426,booking
+OYO 683 Baan Lo Samphao,Pattaya Central,3.0,nan,nan,73172,Pattaya,Thailand,6170738,booking
+OYO 824 Valida Resort,Pattaya South,2.0,nan,nan,76022,Pattaya,Thailand,6296392,booking
+OYO 348 Saithong Place,Na Jomtien,2.0,7.2,57 reviews,67124,Pattaya,Thailand,2926260,booking
+OYO 772 Mercy Hotel,Jomtien Beach,2.0,nan,nan,73329,Pattaya,Thailand,6270698,booking
+Khanidta Resort,Pattaya North,2.0,4.4,6 reviews,63980,Pattaya,Thailand,5979423,booking
+OYO Naza Orchid,Pattaya Central,3.0,4.6,6 reviews,66392,Pattaya,Thailand,5966289,booking
+OYO 315 Hari Om Delhi Darbar,Pattaya Central,2.0,6.5,3 reviews,81805,Pattaya,Thailand,5621730,booking
+OYO 882 The Moonlight Serviced Apartment,Pattaya South,2.0,nan,nan,73077,Pattaya,Thailand,2247457,booking
+OYO 497 The Balagus Hotel,Pattaya North,3.0,nan,nan,51074,Pattaya,Thailand,5868916,booking
+OYO 850 Central Pattaya Residence,"North Pattaya, Pattaya Central",2.0,6.0,10 reviews,67025,Pattaya,Thailand,1183276,booking
+OYO 811 Jasmine Villa,Pattaya Central,2.0,7.0,3 reviews,60386,Pattaya,Thailand,6283858,booking
+OYO 878 Sintara Residence,"North Pattaya, Pattaya Central",2.0,nan,nan,59268,Pattaya,Thailand,6381151,booking
+OYO AKE Apartment,Pattaya South,2.0,nan,nan,57828,Pattaya,Thailand,6144169,booking
+OYO 419 Maleewan Jomtien,Jomtien Beach,2.0,8.1,329 reviews,72878,Pattaya,Thailand,2022518,booking
+OYO 467 Blue Bed Pattaya,Pattaya North,3.0,9.1,40 reviews,75225,Pattaya,Thailand,5721089,booking
+Shangwell Mansion Pattaya,Pattaya Central,3.0,nan,nan,65474,Pattaya,Thailand,6006081,booking
+OYO 335 Top Inn Khaosan,"Khaosan, Bangkok",2.0,6.8,293 reviews,55891,Bangkok,Thailand,2324109,booking
+OYO 437 Hostel Na Nara,"Bang Rak, Bangkok",3.0,6.9,33 reviews,193150,Bangkok,Thailand,547510,booking
+OYO 265 Ratchada Connect,"Din Daeng, Bangkok",nan,8.7,105 reviews,105671,Bangkok,Thailand,4222629,booking
+OYO 318 Pak D Resort,"Ladprao, Bangkok",2.0,7.6,38 reviews,72112,Bangkok,Thailand,1326840,booking
+OYO 289 Luck Swan Boutique,Chiang Rai,3.0,7.6,111 reviews,51015,Chiang Rai,Thailand,2636558,booking
+OYO 515 Fewtor Place,Hua Thanon Beach,3.0,8.2,11 reviews,90556,Koh Samui,Thailand,1238648,booking
+OYO 530 Hoo Samui Resort,Mae Nam,3.0,8.2,45 reviews,110699,Koh Samui,Thailand,4787157,booking
+OYO 927 Samui Platinum Hotel,Bophut,2.0,9.0,7 reviews,122628,Koh Samui,Thailand,3244156,booking
+OYO U Residence,Lamai,nan,nan,nan,87512,Koh Samui,Thailand,5998769,booking
+OYO 468 Dumrong Town Hotel,Nathon,2.0,6.4,14 reviews,96726,Koh Samui,Thailand,5864179,booking
+OYO Chytalay Palace Hotel,Nathon,2.0,6.5,36 reviews,102030,Koh Samui,Thailand,558704,booking
+OYO 639 Rak Samui Residence,"Fisherman Village, Bophut",3.0,9.2,4 reviews,110705,Koh Samui,Thailand,365587,booking
+OYO 616 Bonita House Samui,"Chaweng City Center , Chaweng",2.0,7.9,45 reviews,94824,Koh Samui,Thailand,2073156,booking
+OYO Baan Wararin Hostel,Pattaya North,2.0,nan,nan,165671,Pattaya,Thailand,5954781,booking
+Chaba Garden Resort & Service,Pattaya Central,3.0,6.6,14 reviews,83122,Pattaya,Thailand,327940,booking
+OYO 616 Bonita House Samui,"Chaweng City Center , Chaweng",2.0,7.9,45 reviews,94824,Surat Thani,Thailand,2073156,booking
+OYO 838 Aromdee Apartment,Pattaya North,2.0,6.2,3 reviews,120939,Pattaya,Thailand,1003122,booking
+OYO 663 Green Beach Room,Pattaya North,2.0,7.1,12 reviews,166101,Pattaya,Thailand,6149984,booking
+OYO 698 Pattaya City,Nong Prue,2.0,nan,nan,69003,Pattaya,Thailand,6170716,booking
+OYO 146 Rivana Boutique By Sandara,Pattaya Central,3.0,6.9,54 reviews,64771,Pattaya,Thailand,1702230,booking
+OYO 869 Ban Nam Mao Resort,Na Jomtien,2.0,nan,nan,73271,Pattaya,Thailand,6363776,booking
+OYO 369 Micasa Guesthouse,"Chang Moi, Chiang Mai",2.0,8.1,56 reviews,59385,Chiang Mai,Thailand,5649706,booking
+OYO 150 3Q Chiangmai Residence,"Chang Phueak, Chiang Mai",2.0,7.9,38 reviews,70882,Chiang Mai,Thailand,2051375,booking
+OYO 338 V-Twin Donjan Service Apartment,"Tha Sala, Chiang Mai",2.0,9.0,160 reviews,73172,Chiang Mai,Thailand,1618657,booking
+OYO 233 Sunshine House,"Chang Phueak, Chiang Mai",3.0,8.7,115 reviews,58244,Chiang Mai,Thailand,389681,booking
+OYO 317 The Lilly Hotel,Chiang Mai,3.0,8.4,101 reviews,87658,Chiang Mai,Thailand,2072939,booking
+OYO 339 Nakara Boutique Chiang Mai,"Chang Khlan, Chiang Mai",2.0,8.4,82 reviews,70894,Chiang Mai,Thailand,5632901,booking
+OYO 374 Room Lanna Hotel,"Chang Phueak, Chiang Mai",3.0,8.4,115 reviews,84879,Chiang Mai,Thailand,4234237,booking
+OYO Maesri Resort,Pattaya Central,3.0,3.6,8 reviews,145878,Pattaya,Thailand,5934666,booking
+OYO 441 Grand Thara Hotel,Suratthani,3.0,7.4,40 reviews,57301,Surat Thani,Thailand,503130,booking
+OYO 639 Rak Samui Residence,"Fisherman Village, Bophut",3.0,9.2,4 reviews,110705,Surat Thani,Thailand,365587,booking
+OYO 846 Sleep Box Hostel,Suratthani,3.0,8.4,117 reviews,43586,Surat Thani,Thailand,5192620,booking
+OYO 770 Baan Hom Hug Resort,Bang Su,2.0,9.0,10 reviews,59954,Chiang Rai,Thailand,5353408,booking
+OYO 592 Goldenville Villa,Ban Du,2.0,6.8,6 reviews,54059,Chiang Rai,Thailand,815465,booking
+OYO 494 Tantawan Resort,Chiang Rai,3.0,6.8,3 reviews,51074,Chiang Rai,Thailand,5867657,booking
+OYO 859 Golden Land Hotel,Chiang Rai,2.0,6.3,46 reviews,55276,Chiang Rai,Thailand,291753,booking
+OYO 775 Explore Hotel,Chiang Rai,2.0,nan,nan,54059,Chiang Rai,Thailand,6270702,booking
+OYO 643 Kokview Chiang Rai,Chiang Rai,3.0,6.2,4 reviews,54059,Chiang Rai,Thailand,6088842,booking
+OYO 835 Koh Chang Luxury Hotel,"Klong Prao Beach, Ko Chang",2.0,6.3,4 reviews,150229,Trad (Koh Chang),Thailand,392474,booking
+OYO Tree House Cottage,"Klong Kloi Beach, Ko Chang",2.0,7.6,74 reviews,68418,Trad (Koh Chang),Thailand,1354336,booking
+OYO 647 Sudjai Resort,Ban Chuk Kum,3.0,nan,nan,72129,Kanchanaburi,Thailand,6144272,booking
+OYO 689 Treeyapat Place,Kanchanaburi,3.0,nan,nan,61229,Kanchanaburi,Thailand,6151291,booking
+OYO 580 Chic Inn Thamuang,Kanchanaburi,3.0,7.3,20 reviews,54173,Kanchanaburi,Thailand,2377585,booking
+OYO 670 Baan Suan Chan Resort,Kanchanaburi,2.0,7.4,23 reviews,58244,Kanchanaburi,Thailand,297896,booking
+OYO 640 Baan Phuduan,Chiang Rai,2.0,nan,nan,58536,Chiang Rai,Thailand,1316255,booking
+OYO 901 Bannsawasdee,Chiang Rai,2.0,8.3,425 reviews,56242,Chiang Rai,Thailand,2678953,booking
+OYO 920 Saensukkho Hotel And Resort,Chiang Rai,2.0,5.4,4 reviews,118573,Chiang Rai,Thailand,294374,booking
+OYO 787 Ngeeb Bed & Breakfast,Chiang Rai,3.0,7.3,34 reviews,58097,Chiang Rai,Thailand,4044692,booking
+OYO 515 Fewtor Place,Hua Thanon Beach,3.0,8.2,11 reviews,90556,Surat Thani,Thailand,1238648,booking
+OYO 763 Khaokhao Legend Resort,Khao Sok,3.0,7.7,32 reviews,184181,Surat Thani,Thailand,5815188,booking
+OYO 530 Hoo Samui Resort,Mae Nam,3.0,8.2,45 reviews,110699,Surat Thani,Thailand,4787157,booking
+OYO 566 Princess Park Hotel,Suratthani,2.0,8.1,19 reviews,58536,Surat Thani,Thailand,822699,booking
+OYO 927 Samui Platinum Hotel,Bophut,2.0,9.0,7 reviews,122628,Surat Thani,Thailand,3244156,booking
+OYO U Residence,Lamai,nan,nan,nan,87512,Surat Thani,Thailand,5998769,booking
+OYO 468 Dumrong Town Hotel,Nathon,2.0,6.4,14 reviews,96726,Surat Thani,Thailand,5864179,booking
+OYO Chytalay Palace Hotel,Nathon,2.0,6.5,36 reviews,102030,Surat Thani,Thailand,558704,booking
+OYO 728 The Hopp Airport,Suratthani,3.0,nan,nan,52537,Surat Thani,Thailand,6181158,booking
+OYO 258 Warmtel Chiang Mai Cityhall,"Chang Phueak, Chiang Mai",3.0,8.1,105 reviews,64391,Chiang Mai,Thailand,2813106,booking
+OYO 316 Le Grande,Pattaya South,2.0,6.5,62 reviews,60515,Pattaya,Thailand,5156361,booking
+OYO 337 Tree Retro,"Tha Sala, Chiang Mai",2.0,7.7,79 reviews,61188,Chiang Mai,Thailand,1373330,booking
+OYO Stay Young Villa,"Chang Phueak, Chiang Mai",2.0,nan,nan,105132,Chiang Mai,Thailand,6009860,booking
+ZEN Rooms Mon Muang,"Wat Ket, Chiang Mai",3.0,8.1,11 reviews,127304,Chiang Mai,Thailand,1858389,booking
+OYO 934 VR Meet Hostel,"Nimmanhaemin, Chiang Mai",2.0,8.3,28 reviews,63242,Chiang Mai,Thailand,2463768,booking
+OYO 362 Tunglakorn Farm,Chiang Mai,2.0,9.4,7 reviews,102786,Chiang Mai,Thailand,5651233,booking
+OYO 552 Hab40 Hostel,"Chang Moi, Chiang Mai",2.0,9.5,118 reviews,43904,Chiang Mai,Thailand,3204121,booking
+OYO 489 Yak Hostel,"Hai ya, Chiang Mai",2.0,9.1,83 reviews,50598,Chiang Mai,Thailand,2302242,booking
+OYO Box Hostel n Cafe,"Nimmanhaemin, Chiang Mai",2.0,8.8,95 reviews,49640,Chiang Mai,Thailand,1624386,booking
+OYO Sleep Sloth Hostel,"Si Phum, Chiang Mai",2.0,8.7,23 reviews,64109,Chiang Mai,Thailand,4881110,booking
+OYO 652 Smile Robotist Hostel,"Si Phum, Chiang Mai",2.0,8.3,13 reviews,45074,Chiang Mai,Thailand,4983419,booking
+OYO 677 Le Loftel Hostel Chiang Mai,"Si Phum, Chiang Mai",2.0,7.9,63 reviews,43904,Chiang Mai,Thailand,1894053,booking
+OYO 668 Norn Plearn Hostel,Chiang Mai,2.0,8.8,23 reviews,46830,Chiang Mai,Thailand,2782068,booking
+My Space Hostel,"Chang Moi, Chiang Mai",nan,nan,nan,43084,Chiang Mai,Thailand,5982316,booking
+OYO 780 Plumeria Home,"Hai ya, Chiang Mai",2.0,8.8,22 reviews,71831,Chiang Mai,Thailand,1399237,booking
+OYO Le Light House & Hostel,"Phra Sing, Chiang Mai",nan,9.0,91 reviews,59063,Chiang Mai,Thailand,2824434,booking
+OYO 483 Pannee Hotel Khaosan,"Khaosan, Bangkok",2.0,8.5,135 reviews,109459,Bangkok,Thailand,5346644,booking
+OYO 284 Sabaidee Minitel,"Dusit, Bangkok",2.0,7.9,151 reviews,91528,Bangkok,Thailand,1415561,booking
+OYO 140 The Krungkasem Srikrung Hotel,"Chinatown, Bangkok",2.0,8.1,"1,505 reviews",100894,Bangkok,Thailand,592914,booking
+OYO 248 Chevasai Bangkok,"Riverside, Bangkok",3.0,7.2,396 reviews,63738,Bangkok,Thailand,2357819,booking
+OYO 312 Wire Bangkok Hostel Phrakanong,"Khlong Toei, Bangkok",3.0,7.6,49 reviews,89170,Bangkok,Thailand,5282589,booking
+OYO 498 Ladawan Villa,Bangkok,3.0,7.0,13 reviews,68634,Bangkok,Thailand,5877074,booking
+OYO 225 Premier Place Bangkok,"Bang Rak, Bangkok",3.0,7.8,236 reviews,107896,Bangkok,Thailand,5249498,booking
+OYO 231 Atlas Bangkok Hotel,"Wattana, Bangkok",3.0,7.6,420 reviews,102294,Bangkok,Thailand,359827,booking
+OYO 537 Na Banglampoo Hotel,"Khaosan, Bangkok",3.0,8.1,"1,001 reviews",75888,Bangkok,Thailand,300048,booking
+OYO 251 Matini Ratchada 32,"Chatuchak, Bangkok",3.0,8.2,195 reviews,86296,Bangkok,Thailand,4022436,booking
+OYO 228 Babo House Bangkok,"Khaosan, Bangkok",3.0,7.8,980 reviews,66463,Bangkok,Thailand,1976657,booking
+OYO 280 Thai Garden Resort,"Bueng Kum, Bangkok",2.0,7.2,85 reviews,73171,Bangkok,Thailand,4225897,booking
+OYO Sookjai Cafe and Hostel,"Chang Phueak, Chiang Mai",2.0,nan,nan,72288,Chiang Mai,Thailand,6170880,booking
+OYO 817 Noble Thippanate,"Hai ya, Chiang Mai",2.0,nan,nan,58536,Chiang Mai,Thailand,6288883,booking
+OYO 868 Buddha,Chiang Mai,2.0,nan,nan,66217,Chiang Mai,Thailand,6358945,booking
+OYO 708 All Red Hostel Chiang Mai,"Wat Ket, Chiang Mai",nan,8.6,14 reviews,51073,Chiang Mai,Thailand,5872163,booking
+OYO 743 Sweet Mango Cafe And Hostel,Chiang Mai,2.0,7.0,17 reviews,54059,Chiang Mai,Thailand,2074517,booking
+OYO 473 Faikham Hostel,"Wat Ket, Chiang Mai",3.0,8.2,78 reviews,70929,Chiang Mai,Thailand,3303270,booking
+OYO 493 Mali's Room,"Si Phum, Chiang Mai",2.0,7.7,136 reviews,60896,Chiang Mai,Thailand,461509,booking
+OYO 252 Isleep Guesthouse,Chiang Mai,2.0,8.1,78 reviews,88092,Chiang Mai,Thailand,626194,booking
+OYO 367 The Battery Park Midtown Boutique,"Si Phum, Chiang Mai",3.0,8.0,378 reviews,95509,Chiang Mai,Thailand,1446535,booking
+OYO Tong House Resort,Chiang Mai,3.0,7.8,26 reviews,59468,Chiang Mai,Thailand,4461177,booking
+OYO 361 Relax Garden House,Chiang Mai,3.0,9.0,28 reviews,66480,Chiang Mai,Thailand,5649690,booking
+OYO 799 Pudsadee Hotel,"Phra Sing, Chiang Mai",2.0,9.0,959 reviews,53813,Chiang Mai,Thailand,1971067,booking
+OYO 899 Villa De Hun,"Si Phum, Chiang Mai",2.0,9.1,129 reviews,72264,Chiang Mai,Thailand,2004409,booking
+OYO 807 Suan​ Dok​ Kaew​ Hotel​,Chiang Mai,2.0,nan,nan,63969,Chiang Mai,Thailand,6285682,booking
+OYO 240 Ketawa Pet Friendly Hotel Chiangmai,"Chang Moi, Chiang Mai",4.0,9.1,57 reviews,98008,Chiang Mai,Thailand,257362,booking
+OYO 891 Wiangchomphu,Chiang Mai,2.0,nan,nan,51829,Chiang Mai,Thailand,6373415,booking
+OYO 768 First Station Hotel,"Si Phum, Chiang Mai",2.0,8.0,170 reviews,67083,Chiang Mai,Thailand,1366818,booking
+OYO 673 Nice Sleep Box Hotel,"Chang Moi, Chiang Mai",2.0,8.6,259 reviews,58419,Chiang Mai,Thailand,2180294,booking
+OYO 856 Chunapa Resort And Spa,"Chang Phueak, Chiang Mai",2.0,nan,nan,51952,Chiang Mai,Thailand,6363918,booking
+OYO 571 La Bhu Salah,Chiang Mai,2.0,nan,nan,67083,Chiang Mai,Thailand,6009864,booking
+OYO 928 Leaf Hostel,"Nimmanhaemin, Chiang Mai",2.0,9.1,119 reviews,70974,Chiang Mai,Thailand,3149021,booking
+OYO 304 Seven Suns Residence,"Phra Sing, Chiang Mai",2.0,8.6,14 reviews,120979,Chiang Mai,Thailand,5549519,booking
+OYO 794 Nice Mum Lodge,"Chang Khlan, Chiang Mai",2.0,7.2,18 reviews,65831,Chiang Mai,Thailand,364295,booking
+OYO 788 Galare Guest House,"Chang Moi, Chiang Mai",2.0,8.6,182 reviews,115183,Chiang Mai,Thailand,255064,booking
+OYO Hai Hostel,"Si Phum, Chiang Mai",2.0,9.2,335 reviews,87658,Chiang Mai,Thailand,4686029,booking
+OYO 495 Baan Lanna Walking Street,"Si Phum, Chiang Mai",2.0,7.0,101 reviews,50927,Chiang Mai,Thailand,744005,booking
+ZEN Rooms Don Chan,"Tha Sala, Chiang Mai",2.0,6.9,7 reviews,104225,Chiang Mai,Thailand,1858386,booking
+OYO 391 Pat's Klangviang Guesthouse,"Phra Sing, Chiang Mai",3.0,8.5,80 reviews,69723,Chiang Mai,Thailand,351467,booking
+OYO 412 Seven Days Hotel,"Wat Ket, Chiang Mai",3.0,7.1,41 reviews,50974,Chiang Mai,Thailand,5733327,booking
+OYO 131 Griebs Inn,Pattaya South,2.0,7.2,61 reviews,74418,Pattaya,Thailand,4427766,booking
+OYO 448 Jan's Guest House,Pattaya Central,nan,3.1,4 reviews,73488,Pattaya,Thailand,5789014,booking
+OYO 520 Pattaya Cantina,Pattaya South,2.0,7.5,45 reviews,73229,Pattaya,Thailand,4299872,booking
+OYO 429 Billabong Resort Cha Am,Ban Phu Wai,3.0,8.3,3 reviews,63987,Hua Hin,Thailand,5760686,booking
+OYO Tanfa Resort,Cha Am,3.0,9.4,4 reviews,65983,Hua Hin,Thailand,5954380,booking
+OYO 570 Seaside Hua Hin,Khao Tao,3.0,6.5,4 reviews,58244,Hua Hin,Thailand,1405363,booking
+OYO 242 Baan Noppadol Hua Hin Resort,Hua Hin,3.0,8.6,52 reviews,173579,Hua Hin,Thailand,1279426,booking
+OYO 751 Vandee Guesthouse,Hua Hin,2.0,nan,nan,89679,Hua Hin,Thailand,6270654,booking
+OYO 607 Nawang Resort,Hua Hin,3.0,nan,nan,71152,Hua Hin,Thailand,5974490,booking
+OYO 897 Ansu Hotel,"Hua Hin Night Market, Hua Hin",2.0,7.6,369 reviews,72896,Hua Hin,Thailand,1429105,booking
+OYO 269 Eyeda Vintage Guest House Huahin,Hua Hin,2.0,7.3,26 reviews,73172,Hua Hin,Thailand,5489387,booking
+OYO 382 Baan Poemsuk,Hua Hin,3.0,8.2,7 reviews,86780,Hua Hin,Thailand,5703998,booking
+OYO 785 Baan Pak Rim Nam,Hua Hin,2.0,nan,nan,58244,Hua Hin,Thailand,6270793,booking
+OYO 330 Venus Resort Pranburi,Hua Hin,3.0,7.2,9 reviews,68880,Hua Hin,Thailand,5622768,booking
+OYO 447 Royal Express Hua Hin,Hua Hin,3.0,6.5,38 reviews,65714,Hua Hin,Thailand,358384,booking
+OYO 314 The Space Huahin,Hua Hin,3.0,7.1,188 reviews,62763,Hua Hin,Thailand,3804836,booking
+OYO 481 Baan Kai Na,Hua Hin,3.0,8.4,154 reviews,63688,Hua Hin,Thailand,1760953,booking
+OYO 266 Baanloksouylokchay,Hua Hin,3.0,7.6,91 reviews,61229,Hua Hin,Thailand,255789,booking
+OYO 650 At Night Pranburi,Pran Buri,2.0,8.4,4 reviews,69677,Hua Hin,Thailand,6144186,booking
+OYO 603 Thongsuk Mini Resort,Ban Nong Ban Kao,2.0,9.0,39 reviews,45622,Hua Hin,Thailand,2575892,booking
+OYO Phasuk Hotel,Pran Buri,2.0,6.9,7 reviews,54744,Hua Hin,Thailand,5989762,booking
+Pattaraporn Hotel,Pran Buri,1.0,nan,nan,51518,Hua Hin,Thailand,5877315,booking
+OYO 627 Sai Thai Garden Home Travel,Ao Nang Beach,2.0,nan,nan,61107,Krabi,Thailand,248095,booking
+OYO 385 Aonang President Hotel,Ao Nang Beach,3.0,7.6,206 reviews,93518,Krabi,Thailand,260817,booking
+OYO 340 Ahad Suite Ao Nang Hotel,Ao Nang Beach,3.0,8.1,232 reviews,125550,Krabi,Thailand,3920634,booking
+OYO 443 Little Home Ao Nang,Ao Nang Beach,2.0,8.3,304 reviews,58244,Krabi,Thailand,1278758,booking
+OYO 902 Life​ &​ Love​ Resort,Ao Nang Beach,2.0,7.8,94 reviews,67318,Krabi,Thailand,1275966,booking
+OYO 268 Paradee Resort Hua-hin,Hua Hin,3.0,8.7,56 reviews,140781,Khon Khan,Thailand,1003785,booking
+CAPITAL O 804 Greenway Hua Hin Resort,Hua Hin,4.0,nan,nan,195560,Khon Khan,Thailand,1326884,booking
+OYO 119 Baan Noppadol Hua Hin Loft,Hua Hin,3.0,9.0,58 reviews,139148,Hua Hin,Thailand,4129707,booking
+OYO 446 Get Link Hip Hotel,Hua Hin,2.0,5.3,6 reviews,60416,Khon Khan,Thailand,626793,booking
+OYO 269 Eyeda Vintage Guest House Huahin,Hua Hin,2.0,7.3,26 reviews,73172,Khon Khan,Thailand,5489387,booking
+OYO 242 Baan Noppadol Hua Hin Resort,Hua Hin,3.0,8.6,52 reviews,173579,Khon Khan,Thailand,1279426,booking
+OYO 314 The Space Huahin,Hua Hin,3.0,7.1,188 reviews,62763,Khon Khan,Thailand,3804836,booking
+OYO 382 Baan Poemsuk,Hua Hin,3.0,8.2,7 reviews,86780,Khon Khan,Thailand,5703998,booking
+OYO Baan Taklom Chomtalay,Phetchaburi,3.0,nan,nan,58934,Hua Hin,Thailand,5989821,booking
+OYO 884 Baan Sang Chan Cha-am,Cha Am,2.0,7.9,53 reviews,109592,Hua Hin,Thailand,282547,booking
+OYO Baanbali Beach Resort,"Pak Nam Pran, Pran Buri",2.0,nan,nan,141041,Hua Hin,Thailand,311827,booking
+OYO 266 Baanloksouylokchay,Hua Hin,3.0,7.6,91 reviews,61229,Khon Khan,Thailand,255789,booking
+OYO The Tama Hotel,Ao Nam Mao,4.0,8.5,164 reviews,114468,Krabi,Thailand,1178965,booking
+OYO 268 Paradee Resort Hua-hin,Hua Hin,3.0,8.7,56 reviews,140781,Hua Hin,Thailand,1003785,booking
+OYO 354 Ton Hom Resort & Villa,Hua Hin,3.0,6.7,20 reviews,58244,Hua Hin,Thailand,1939789,booking
+OYO 330 Venus Resort Pranburi,Hua Hin,3.0,7.2,9 reviews,68880,Khon Khan,Thailand,5622768,booking
+OYO 785 Baan Pak Rim Nam,Hua Hin,2.0,nan,nan,58244,Khon Khan,Thailand,6270793,booking
+OYO 603 Thongsuk Mini Resort,Ban Nong Ban Kao,2.0,9.0,39 reviews,45622,Khon Khan,Thailand,2575892,booking
+Pattaraporn Hotel,Pran Buri,1.0,nan,nan,51518,Khon Khan,Thailand,5877315,booking
+OYO Phasuk Hotel,Pran Buri,2.0,6.9,7 reviews,54744,Khon Khan,Thailand,5989762,booking
+OYO 650 At Night Pranburi,Pran Buri,2.0,8.4,4 reviews,69677,Khon Khan,Thailand,6144186,booking
+OYO 607 Nawang Resort,Hua Hin,3.0,nan,nan,71152,Khon Khan,Thailand,5974490,booking
+OYO Tanfa Resort,Cha Am,3.0,9.4,4 reviews,65983,Khon Khan,Thailand,5954380,booking
+OYO 429 Billabong Resort Cha Am,Ban Phu Wai,3.0,8.3,3 reviews,63987,Khon Khan,Thailand,5760686,booking
+OYO 570 Seaside Hua Hin,Khao Tao,3.0,6.5,4 reviews,58244,Khon Khan,Thailand,1405363,booking
+OYO 321 Country Place Hua Hin,Hua Hin,3.0,7.6,16 reviews,49862,Khon Khan,Thailand,4222744,booking
+OYO 227 Suchaya House,Hua Hin,3.0,7.8,532 reviews,52771,Khon Khan,Thailand,333175,booking
+OYO 897 Ansu Hotel,"Hua Hin Night Market, Hua Hin",2.0,7.6,369 reviews,72896,Khon Khan,Thailand,1429105,booking
+OYO 354 Ton Hom Resort & Villa,Hua Hin,3.0,6.7,20 reviews,58244,Khon Khan,Thailand,1939789,booking
+OYO 342 Baan Ta Yai Hua Hin Beach,"Hua Hin Night Market, Hua Hin",3.0,7.7,80 reviews,87512,Khon Khan,Thailand,3127190,booking
+OYO 884 Baan Sang Chan Cha-am,Cha Am,2.0,7.9,53 reviews,109592,Khon Khan,Thailand,282547,booking
+OYO Baanbali Beach Resort,"Pak Nam Pran, Pran Buri",2.0,nan,nan,141041,Khon Khan,Thailand,311827,booking
+OYO 751 Vandee Guesthouse,Hua Hin,2.0,nan,nan,89679,Khon Khan,Thailand,6270654,booking
+OYO 463 Tycoon Place,Pattaya South,3.0,7.0,91 reviews,79962,Pattaya,Thailand,5788866,booking
+OYO 446 Get Link Hip Hotel,Hua Hin,2.0,5.3,6 reviews,60416,Hua Hin,Thailand,626793,booking
+OYO 342 Baan Ta Yai Hua Hin Beach,"Hua Hin Night Market, Hua Hin",3.0,7.7,80 reviews,87512,Hua Hin,Thailand,3127190,booking
+OYO 227 Suchaya House,Hua Hin,3.0,7.8,532 reviews,52771,Hua Hin,Thailand,333175,booking
+OYO 450 Rawai Studios Resort,Rawai Beach,3.0,8.9,40 reviews,81121,Phuket,Thailand,5793354,booking
+OYO 263 Journey Residence,Bang Tao Beach,nan,8.9,36 reviews,94929,Phuket,Thailand,3776574,booking
+OYO 259 Baan Napatr,Bang Tao Beach,2.0,8.6,57 reviews,82511,Phuket,Thailand,4231875,booking
+Thai Palace Resort,Rawai Beach,3.0,8.6,532 reviews,219367,Phuket,Thailand,345080,booking
+OYO 321 Country Place Hua Hin,Hua Hin,3.0,7.6,16 reviews,49862,Hua Hin,Thailand,4222744,booking
+OYO 503 Phuket Numnoi,Bang Tao Beach,3.0,9.4,64 reviews,80342,Phuket,Thailand,4321841,booking
+OYO 305 Nada Place,Bang Tao Beach,3.0,7.3,15 reviews,90645,Phuket,Thailand,5549892,booking
+OYO 789 Andaman Place@Baandon,Thalang,2.0,nan,nan,74501,Phuket,Thailand,6270805,booking
+OYO Tina Boutique Resort,Ban Muang Mai,2.0,nan,nan,71941,Phuket,Thailand,4734142,booking
+OYO 481 Baan Kai Na,Hua Hin,3.0,8.4,154 reviews,63688,Khon Khan,Thailand,1760953,booking
+OYO 447 Royal Express Hua Hin,Hua Hin,3.0,6.5,38 reviews,65714,Khon Khan,Thailand,358384,booking
+OYO 119 Baan Noppadol Hua Hin Loft,Hua Hin,3.0,9.0,58 reviews,139148,Khon Khan,Thailand,4129707,booking
+OYO 357 Sleep Easy On Nineteen,Pattaya Central,2.0,7.6,104 reviews,73716,Pattaya,Thailand,5649181,booking
+OYO 358 Rattana Residence Thalang,Thalang,2.0,8.3,104 reviews,73014,Phuket,Thailand,434320,booking
+OYO Marina House,Krabi town,2.0,nan,nan,67405,Krabi,Thailand,5989975,booking
+CAPITAL O 804 Greenway Hua Hin Resort,Hua Hin,4.0,nan,nan,195560,Hua Hin,Thailand,1326884,booking
+OYO 436 Pf Resort,Nong Prue,3.0,7.9,4 reviews,74137,Pattaya,Thailand,5760501,booking
+OYO Presley Guesthouse Patong,"Nanai Road, Patong Beach",2.0,8.0,272 reviews,61229,Phuket,Thailand,353482,booking
+OYO The Hostel Phuket,Patong Beach,2.0,nan,nan,59122,Phuket,Thailand,5494557,booking
+OYO 229 Art Mansion,Patong Beach,3.0,8.4,76 reviews,117788,Phuket,Thailand,368433,booking
+OYO 320 Regent 2002 Guest House,Patong Beach,3.0,8.1,91 reviews,75618,Phuket,Thailand,2024136,booking
+OYO 345 The Click Guesthouse at Chalong,Rawai Beach,2.0,7.8,31 reviews,80342,Phuket,Thailand,505774,booking
+OYO 303 Phoomjai House,Chalong,2.0,9.1,63 reviews,73172,Phuket,Thailand,1313276,booking
+OYO The Chalet Phuket Resort,Panwa Beach,4.0,7.8,4 reviews,196887,Phuket,Thailand,280394,booking
+OYO 277 Pumpui Boutique Hotel,Patong Beach,nan,6.6,38 reviews,57312,Phuket,Thailand,3561091,booking
+OYO 581 The Album Loft@nanai,"Nanai Road, Patong Beach",2.0,8.0,80 reviews,72878,Phuket,Thailand,276808,booking
+OYO 386 Phuket Iyh Islands Boutique Hotel,Patong Beach,3.0,7.3,29 reviews,80213,Phuket,Thailand,2233317,booking
+OYO 288 The Minotel Hotel,Patong Beach,2.0,7.0,43 reviews,95351,Phuket,Thailand,335600,booking
+OYO 373 Mc Ginger House,Patong Beach,3.0,7.4,62 reviews,73709,Phuket,Thailand,775558,booking
+OYO 466 Vibes Patong,Patong Beach,2.0,nan,nan,88596,Phuket,Thailand,5867648,booking
+OYO 292 The Oddy Hip Hotel,Patong Beach,3.0,5.5,23 reviews,58566,Phuket,Thailand,263094,booking
+OYO 138 The Chilli Salza Patong,Patong Beach,3.0,5.7,146 reviews,80600,Phuket,Thailand,439493,booking
+OYO 389 Sira Boutique Residence,Patong Beach,3.0,7.2,37 reviews,59913,Phuket,Thailand,249445,booking
+OYO 241 Ratana Hotel Sakdidet,Phuket Town,3.0,8.0,209 reviews,51460,Phuket,Thailand,250655,booking
+OYO 501 At Night Hostel,Phuket Town,2.0,8.9,62 reviews,52747,Phuket,Thailand,1094901,booking
+OYO 355 Shyne Place,Phuket Town,2.0,8.7,107 reviews,65708,Phuket,Thailand,1092556,booking
+Tira Hostel at Chalong Phuket,Ban Suan,nan,nan,nan,76388,Phuket,Thailand,5907494,booking
+OYO 792 Omsaga Phuket Hotel,Ban Phlu Yai,2.0,5.7,7 reviews,61347,Phuket,Thailand,379325,booking
+OYO 861 Patong Dynasty Hotel,Patong Beach,2.0,6.5,124 reviews,80342,Phuket,Thailand,1093549,booking
+OYO 821 The Littlenest Phuket,Phuket Town,2.0,7.6,3 reviews,76332,Phuket,Thailand,1351927,booking
+OYO 586 I Hostel,Phuket Town,nan,7.2,16 reviews,54322,Phuket,Thailand,374461,booking
+OYO 736 Green Poshtel,Phuket Town,3.0,nan,nan,65608,Phuket,Thailand,6149994,booking
+OYO 623 Cafe'@Luv22,Phuket Town,3.0,nan,nan,66639,Phuket,Thailand,6144200,booking
+OYO 472 Tang Cheng Holiday Hotel,Patong Beach,3.0,7.8,227 reviews,75864,Phuket,Thailand,3618951,booking
+OYO Lake View Phuket Place,Phuket Town,nan,nan,nan,73640,Phuket,Thailand,6009889,booking
+OYO 451 Samran Resort,Phuket Town,3.0,8.5,46 reviews,73488,Phuket,Thailand,5825683,booking
+OYO 380 Jomthong Mansion,Phuket Town,2.0,nan,nan,76243,Phuket,Thailand,5708694,booking
+OYO 453 Thai Boutique Resort,Phuket Town,2.0,8.4,4 reviews,101148,Phuket,Thailand,5807501,booking
+OYO 435 Frame Residence,Phuket Town,2.0,8.1,17 reviews,72709,Phuket,Thailand,5736297,booking
+OYO 301 Sivana Place,Phuket Town,2.0,nan,nan,183706,Phuket,Thailand,5649759,booking
+OYO 282 Baan Nat,Phuket Town,nan,7.6,68 reviews,58595,Phuket,Thailand,378799,booking
+OYO 610 Yamin Seaview Hotel,Phuket Town,4.0,8.7,18 reviews,65667,Phuket,Thailand,5765581,booking
+OYO 778 21 Poshtel,Phuket Town,2.0,nan,nan,59391,Phuket,Thailand,6271038,booking
+OYO 294 The Panwa Guesthouse,Panwa Beach,3.0,8.6,9 reviews,102797,Phuket,Thailand,280936,booking
+OYO 232 Patong City Hometel,Patong Beach,3.0,7.6,263 reviews,103926,Phuket,Thailand,404294,booking
+OYO 244 Roar Inn Patong,Patong Beach,3.0,8.0,483 reviews,71018,Phuket,Thailand,327660,booking
+OYO 682 Fishering Home,Krabi town,2.0,nan,nan,61229,Krabi,Thailand,6151178,booking
+OYO Phu Ching Resort,Krabi town,2.0,nan,nan,67622,Krabi,Thailand,6151192,booking
+OYO 608 Maleena Home,Krabi town,2.0,nan,nan,61229,Krabi,Thailand,6044460,booking
+OYO 747 Suwanna Hotel,Krabi town,3.0,nan,nan,73172,Krabi,Thailand,1458482,booking
+OYO 255 The Ocean Hotel Patong,Patong Beach,3.0,7.7,95 reviews,80646,Phuket,Thailand,335257,booking
+OYO 423 Baan Lucky Guesthouse,Karon Beach,nan,5.7,12 reviews,61185,Phuket,Thailand,2146109,booking
+OYO 485 Million Patong Beach Resort,"Nanai Road, Patong Beach",2.0,6.8,16 reviews,57312,Phuket,Thailand,817640,booking
+OYO 235 I Dee Hotel Patong,Patong Beach,3.0,6.8,13 reviews,146910,Phuket,Thailand,292254,booking
+OYO 328 Onion House,Kata Beach,2.0,7.4,58 reviews,75606,Phuket,Thailand,4309999,booking
+OYO 744 @Home Kamala Hills,Kamala Beach,2.0,nan,nan,76683,Phuket,Thailand,6270690,booking
+OYO 401 Pine House Hotel Rawai,Nai Harn Beach,3.0,8.5,22 reviews,68150,Phuket,Thailand,2868041,booking
+OYO 329 B. Banana Resort,Thalang,2.0,6.5,7 reviews,105190,Phuket,Thailand,5197997,booking
+OYO 279 Sweet Pound Hotel,Pattaya Central,3.0,7.5,80 reviews,74184,Pattaya,Thailand,5521030,booking
+OYO 488 Delight Residence,Nong Prue,3.0,8.0,33 reviews,71023,Pattaya,Thailand,2656829,booking
+Skipper's Guesthouse,Karon Beach,2.0,9.5,37 reviews,80480,Phuket,Thailand,1720407,booking
+OYO 800 Orbit Key Hotel,Krabi town,2.0,nan,nan,71245,Krabi,Thailand,1343599,booking
+OYO 596 Baan Kim lian,Ban Phlu Yai,nan,nan,nan,61229,Phuket,Thailand,6009877,booking
+OYO 323 Game Boutique,Patong Beach,2.0,7.9,110 reviews,62370,Phuket,Thailand,3999978,booking
+OYO 888 Apinya's Place Karon,Karon Beach,2.0,nan,nan,79844,Phuket,Thailand,6367559,booking
+OYO 422 Jane Homestay and Resort,Rawai Beach,3.0,8.7,30 reviews,76210,Phuket,Thailand,4958173,booking
+OYO 285 The Modern Place,"North Pattaya, Pattaya Central",2.0,8.2,102 reviews,72878,Pattaya,Thailand,5545495,booking
+ZEN Rooms Rat-U-Thid 200 Phi Road,Patong Beach,1.0,7.8,3 reviews,88656,Phuket,Thailand,2020164,booking
+OYO 126 Patong Station House,Patong Beach,2.0,6.6,47 reviews,73172,Phuket,Thailand,395884,booking
+OYO 573 Proundpat Resort,Krabi town,3.0,nan,nan,73172,Krabi,Thailand,6088870,booking

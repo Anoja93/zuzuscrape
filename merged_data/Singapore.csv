@@ -1,0 +1,18 @@
+hotel_name,location,star_rating,review_rating,number_of_reviews,price,city,country,channel_hotel_id,channel_name
+RedDoorz @ Aljunied,"Geylang, Singapore",3.0,6.9,386 reviews,220836,Singapore,Singapore,25113,booking
+ZEN Rooms 1515,"Geylang, Singapore",2.0,6.8,679 reviews,159145,Singapore,Singapore,4276661,booking
+RedDoorz Plus Victoria Hotel,"Victoria, Singapore",3.0,7.3,364 reviews,371794,Singapore,Singapore,25114,booking
+RedDoorz Premium @ Serangoon,"Little India, Singapore",3.0,7.5,26 reviews,268230,Singapore,Singapore,5585632,booking
+ZEN Hostel Race Course Rd,"Lavender, Singapore",1.0,7.6,9 reviews,265895,Singapore,Singapore,2452769,booking
+ZEN Rooms People's Park Complex,"Chinatown, Singapore",3.0,7.4,37 reviews,437447,Singapore,Singapore,2121024,booking
+RedDoorz Hostel @ Chinatown,"Chinatown, Singapore",2.0,nan,nan,274738,Singapore,Singapore,5638196,booking
+RedDoorz Plus near Lavender Street,"Lavender, Singapore",3.0,5.8,100 reviews,240919,Singapore,Singapore,2744602,booking
+RedDoorz near Marine Parade Central,"East Coast, Singapore",3.0,7.1,261 reviews,265174,Singapore,Singapore,2726318,booking
+ZEN Rooms Arab Street,"Kampong Glam, Singapore",3.0,7.7,16 reviews,374338,Singapore,Singapore,1803955,booking
+ZEN Rooms Novena,"Novena, Singapore",4.0,7.6,10 reviews,444305,Singapore,Singapore,2226882,booking
+ZEN Rooms Changi Village,"Changi, Singapore",4.0,6.4,6 reviews,545762,Singapore,Singapore,1818356,booking
+ZEN Rooms Farrer Park,"Lavender, Singapore",3.0,6.1,78 reviews,355235,Singapore,Singapore,1739467,booking
+ZEN Rooms Bukit Merah,"Bukit Merah, Singapore",3.0,5.9,14 reviews,576776,Singapore,Singapore,1739474,booking
+ZEN Premium Kampong Glam,"Kampong Glam, Singapore",4.0,8.5,458 reviews,321652,Singapore,Singapore,1930775,booking
+ZEN Rooms Clarke Quay,"Boat Quay, Singapore",3.0,7.6,72 reviews,377849,Singapore,Singapore,1981455,booking
+RedDoorz Plus @ Little India,"Little India, Singapore",3.0,7.4,33 reviews,565676,Singapore,Singapore,5198467,booking
